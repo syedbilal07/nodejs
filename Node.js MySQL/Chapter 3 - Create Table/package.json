@@ -1,0 +1,16 @@
+{
+  "name": "create-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.15.0",
+	"sql": "0.78.0"
+  }
+}
